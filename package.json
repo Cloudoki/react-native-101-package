@@ -1,0 +1,42 @@
+{
+  "version": "0.1.0",
+  "name": "@cloudoki/react-native-101-package",
+  "description": "React Native 101 Package for Hackfridays",
+  "keywords": [
+    "react-native",
+    "redux",
+    "android",
+    "ios",
+    "mobile",
+    "101",
+    "todo-list"
+  ],
+  "com_hackfridays": {
+    "name": "cloudoki/react-native-101-package",
+    "technicalProfile": "technical",
+    "proficiency": 3,
+    "playScale": 2,
+    "produceScale": 5,
+    "learnScale": 5,
+    "specificity": "general",
+    "reusabilityScale": 4,
+    "softwareHardwareScale": 1,
+    "repos": [
+      {
+        "path": "code/react-native-boilerplate",
+        "url": "https://github.com/Cloudoki/react-native-boilerplate.git",
+        "branch": "master"
+      },
+      {
+        "path": "code/tuise-bot-hackfridays",
+        "url": "https://github.com/Cloudoki/tuise-bot-hackfridays.git",
+        "branch": "master"
+      },
+      {
+        "path": "code/2pack-list",
+        "url": "https://github.com/Cloudoki/2pack-list.git",
+        "branch": "master"
+      }
+    ]
+  }
+}

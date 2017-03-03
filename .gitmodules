@@ -1,0 +1,12 @@
+[submodule "code/react-native-boilerplate"]
+	path = code/react-native-boilerplate
+	url = https://github.com/Cloudoki/react-native-boilerplate.git
+	branch = master
+[submodule "code/tuise-bot-hackfridays"]
+	path = code/tuise-bot-hackfridays
+	url = https://github.com/Cloudoki/tuise-bot-hackfridays.git
+	branch = master
+[submodule "code/2pack-list"]
+	path = code/2pack-list
+	url = https://github.com/Cloudoki/2pack-list.git
+	branch = master
