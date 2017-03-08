@@ -29,9 +29,9 @@ This package includes 3 sub-repos located inside the `code/` folder:
 
 Follow the instructions available in each repository's README.md to setup and install the packages:
 
-- [React Native Boilerplate](./code/react-native-boilerplate/README.md)
-- [2Pack List](./code/2pack-list/README.md)
-- [TuiseBot](./code/tuise-bot-hackfridays/README.md)
+- [React Native Boilerplate](https://github.com/Cloudoki/react-native-boilerplate/blob/55ebf68ea4038fd654cae57ce0c04375ea85f0fd/README.md)
+- [2Pack List](https://github.com/Cloudoki/2pack-list/blob/234b5bc1f51f2e4f0a549fa330fec780358719bc/README.md)
+- [TuiseBot](https://github.com/Cloudoki/tuise-bot-hackfridays/blob/86e4a0ad5b87f0e67e7c1c72e1cdbc7dfb493923/README.md)
 
 Note: The submodules are located inside the `code/` folder, so you need to `cd code/react-native-boilerplate/` (for example) to run the installation instructions successfully for each project.
 
