@@ -1,4 +1,4 @@
-# cloudoki/react-native-101-package
+# Cloudoki/ React Native 101 package
 
 React Native 101 Package for Hackfridays
 
@@ -13,7 +13,7 @@ This project is intended for the following audience:
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-This package includes 3 sub-repos:
+This package includes 3 sub-repos located inside the `code/` folder:
 
 * React Native Boilerplate: A simple boilerplate to get you started on your Hackfridays sessions
 * 2Pack List: An exemplificative Todo-List implementation for the Hackfridays: React Native 101 package
@@ -29,10 +29,11 @@ This package includes 3 sub-repos:
 
 Follow the instructions available in each repository's README.md to setup and install the packages:
 
-- [React Native Boilerplate](code/react-native-boilerplate/README.md)
-- [2Pack List](code/2pack-list/README.md)
-- [TuiseBot](code/tuise-bot-hackfridays/README.md)
+- [React Native Boilerplate](./code/react-native-boilerplate/README.md)
+- [2Pack List](./code/2pack-list/README.md)
+- [TuiseBot](./code/tuise-bot-hackfridays/README.md)
 
+Note: The submodules are located inside the `code/` folder, so you need to `cd code/react-native-boilerplate/` (for example) to run the installation instructions successfully for each project.
 
 ## Authors
 
